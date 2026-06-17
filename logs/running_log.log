@@ -34,3 +34,78 @@ Source-Age: 0
 [2026-06-16 16:51:43,228: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2026-06-16 18:30:32,858: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 18:30:32,860: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 18:30:32,864: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-16 18:30:32,866: INFO: common: created directory at: artifacts]
+[2026-06-16 18:30:32,867: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-16 18:33:02,105: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 18:33:02,105: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 18:33:02,105: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-16 18:33:02,114: INFO: common: created directory at: artifacts]
+[2026-06-16 18:33:02,114: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-16 18:37:00,256: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 18:37:00,258: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 18:37:00,260: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-16 18:37:00,262: INFO: common: created directory at: artifacts]
+[2026-06-16 18:37:00,263: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-16 18:37:23,312: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 18:37:23,313: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 18:37:23,316: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-16 18:37:23,317: INFO: common: created directory at: artifacts]
+[2026-06-16 18:37:23,318: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-16 18:47:47,950: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 18:47:47,953: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 18:47:47,955: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-16 18:47:47,956: INFO: common: created directory at: artifacts]
+[2026-06-16 18:47:47,957: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-16 18:54:27,421: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-16 18:54:27,422: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-16 18:54:27,425: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-16 18:54:27,436: INFO: common: created directory at: artifacts]
+[2026-06-16 18:54:27,438: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-17 16:15:53,548: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-06-17 16:15:53,549: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 16:15:53,550: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 16:15:53,551: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-17 16:15:53,551: INFO: common: created directory at: artifacts]
+[2026-06-17 16:15:53,552: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-06-17 16:15:54,812: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with the following info: 
+Connection: close
+Content-Length: 21984
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "85a38be3d4c70e3b6dc97fc47873623da88c9b850e1526aeb57ff236bdd2815c"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B564:2EA34E:D1777:1E600C:6A327AE2
+Accept-Ranges: bytes
+Date: Wed, 17 Jun 2026 10:45:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830042-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1781693155.654407,VS0,VE350
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 935e6fdf41c43b5c41792a7ef416f268ed873ffe
+Expires: Wed, 17 Jun 2026 10:50:55 GMT
+Source-Age: 0
+
+]
+[2026-06-17 16:15:54,816: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-06-17 16:15:54,816: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-06-17 16:15:54,819: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-06-17 16:15:54,819: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-17 16:15:54,822: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-06-17 16:15:54,823: INFO: common: created directory at: artifacts]
+[2026-06-17 16:15:54,824: INFO: common: created directory at: artifacts/data_validation]
+[2026-06-17 16:15:54,840: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
